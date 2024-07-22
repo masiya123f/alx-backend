@@ -20,7 +20,7 @@ This repo contains projects for learning backend development concepts.
 </div>
 
 
-### <div align="center">I'm Gedeon Obae Gekonge, a software engineer 👨💻 learning  remotely from Kenya 🚀</div> 
+### <div align="center">I'm Siyabonga khumalo, a software engineer 👨💻 learning  remotely from South Africa 🚀</div> 
  
 
 
@@ -36,9 +36,9 @@ This repo contains projects for learning backend development concepts.
 - ⚡ Fun fact: am gemstone hunter 
 
 ## Connect with me  
-📖 To read more about me, visit my [personal website](https://Gedeonobae.github.io/) or [LinkedIn](https://linkedin.com/in/fraol-tesfaye-mts/).
+📖 To read more about me, visit my [personal website](https://siyabonga.github.io/) or [LinkedIn](https://linkedin.com/in/siyabonga/).
 
-✉️ To connect, please do [email me](mailto:gideonobae@gmail.com)!
+✉️ To connect, please do [email me](siyabongakhumalo602@gmail.com)!
 
 
 
@@ -65,7 +65,6 @@ This repo contains projects for learning backend development concepts.
 
 <br/>
 
-[![Gedeonobae's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gedeonobae)](https://github.com/Gedeonobae/github-readme-stats)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davixcky&hide_border=true&layout=compact" align="left" /></details>
 
